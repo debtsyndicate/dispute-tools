@@ -134,7 +134,7 @@
     "postcss-loader": "^2.0.10",
     "pug": "^2.0.0-beta4",
     "query-string": "^4.2.3",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "req-flash": "^0.0.3",
     "request": "^2.88.0",
     "response-time": "^2.3.1",
