@@ -108,7 +108,7 @@
     "glob": "^7.0.5",
     "gm": "^1.23.0",
     "helmet": "^3.6.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "hummus-recipe": "^1.8.0",
     "imagesize": "^1.0.0",
     "jsonwebtoken": "8.5.1",
